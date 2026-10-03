@@ -1,0 +1,9 @@
+NovaX™ V50 — Results Hero Dynamic Overlay + Hub Hero Future Update
+
+Focused changes:
+- Results hero now uses the approved hero artwork as a seamless background layer behind the live Builder Results content instead of treating the artwork as a separate right-hand column.
+- Removed the hard-coded “You're a Visionary Builder™” example from the HTML markup; the profile title is populated dynamically by the existing quiz/result state.
+- Preserved the existing responsive behavior and Builder Card / Builder Profile structure.
+- Hub heading changed from “Your Builder Journey” to “Be the Hero of Your Future™”.
+- No retired assets were added or restored.
+- Builder Lounge™ remains the canonical product term going forward.
